@@ -1,0 +1,56 @@
+body {
+  padding: 50px;
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+  display: inline-block; }
+
+.main__inner {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%; }
+
+.main {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  display: flex; }
+
+.api-link {
+  width: 10%; }
+
+.mainform {
+  display: flex;
+  flex-direction: column; }
+
+input {
+  margin-bottom: 10px; }
+
+.author-inp {
+  width: 150px; }
+
+.date-inp {
+  width: 110px; }
+
+.author-text {
+  width: 400px;
+  margin-bottom: 10px; }
+
+.tags-inp {
+  width: 200px; }
+
+.author-comments {
+  width: 250px;
+  margin-bottom: 10px;
+  height: 100px; }
+
+button {
+  width: 70px;
+  height: 30px; }
+
+.link-inner {
+  width: 100px; }
+
+/*# sourceMappingURL=style.css.map */
